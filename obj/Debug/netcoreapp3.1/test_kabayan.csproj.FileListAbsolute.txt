@@ -1,0 +1,11 @@
+D:\belajar\test_kabayan\bin\Debug\netcoreapp3.1\test_kabayan.exe
+D:\belajar\test_kabayan\bin\Debug\netcoreapp3.1\test_kabayan.deps.json
+D:\belajar\test_kabayan\bin\Debug\netcoreapp3.1\test_kabayan.runtimeconfig.json
+D:\belajar\test_kabayan\bin\Debug\netcoreapp3.1\test_kabayan.runtimeconfig.dev.json
+D:\belajar\test_kabayan\bin\Debug\netcoreapp3.1\test_kabayan.dll
+D:\belajar\test_kabayan\bin\Debug\netcoreapp3.1\test_kabayan.pdb
+D:\belajar\test_kabayan\obj\Debug\netcoreapp3.1\test_kabayan.csprojAssemblyReference.cache
+D:\belajar\test_kabayan\obj\Debug\netcoreapp3.1\test_kabayan.AssemblyInfoInputs.cache
+D:\belajar\test_kabayan\obj\Debug\netcoreapp3.1\test_kabayan.AssemblyInfo.cs
+D:\belajar\test_kabayan\obj\Debug\netcoreapp3.1\test_kabayan.dll
+D:\belajar\test_kabayan\obj\Debug\netcoreapp3.1\test_kabayan.pdb
